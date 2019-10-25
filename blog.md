@@ -13,12 +13,13 @@ We aim to annotate property-concept pairs with possible relations between the pr
 * Affording attributes
 * Variability
 
-Read up on how we design the task here.
+Read up on how we design the task [here](blog/task.md).
+
+
+**The crowd annotation platform**
+
+Finding the right crowd annotation platform is not easy. We discuss our choices here.
 
 **The property-concept pairs**
 
 Follow updates about how we collect property-concept pairs here.
-
-**The crowd annotation platform**
-
-Finding the right crowd annotation platform is not easy. We discuss our choices here. 
