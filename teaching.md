@@ -1,6 +1,5 @@
 # Teaching
 
-
 I'm part of a team teaching Python for Text Analysis. The course materials were designed and developed by various people and can be found on [Github](https://github.com/cltl/python-for-text-analysis). Other than that, I sometimes help out with other courses, mostly by giving guest lectures about my PhD research.
 
 ## Academic year 2019/20
@@ -8,14 +7,14 @@ I'm part of a team teaching Python for Text Analysis. The course materials were 
 ### Python for Text Analysis
 taught by Marten Postma and Pia Sommerauer
 Periods: 1
-Course materials will be made available soon (take a look at last year's materials if you're interested)
+[Course material](https://github.com/cltl/python-for-text-analysis)
 
 ## Academic year 2018/19
 
 ### Python for text analysis / Programming for the Humanities and Social Sciences
 taught by Chantal van Son & Pia Sommerauer
 Periods: 2 & 3 (9c) / 2 (6ec)
-[Course materials](https://github.com/cltl/python-for-text-analysis)
+[Course materials (release 2018-19)](https://github.com/cltl/python-for-text-analysis/releases/tag/2018-2019)
 
 ### Advanced NLP course at CBS
 taught by Antske Fokkens and Pia Sommerauer
