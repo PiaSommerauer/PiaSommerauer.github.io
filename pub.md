@@ -1,5 +1,7 @@
 # Publications
 
+Pia Sommerauer, Antske Fokkens, and Piek Vossen. 2019. Towards Interpretable, Data-derived Distributional Semantic Representations for Reasoning: A Dataset of Properties and Concepts. In Proceedings of the Tenth Global Wordnet Conference.
+[paper](https://s3.amazonaws.com/academia.edu.documents/61263080/Proceedings_of_the_10th_Global_Wordnet_Conference_201920191119-65150-qqqkcb.pdf?response-content-disposition=inline%3B%20filename%3DDevelopment_of_Assamese_Rule_based_Stemm.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200115T160350Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d37168d606a5bcb570f9ca1011b0d0baa594be38bbfd62fd75847f6a5c9eec36#page=95)
 
 Pia Sommerauer and Antske Fokkens. 2019. "Conceptual Change and Distributional Semantic Models: an Exploratory Study on Pitfalls and Possibilities". In Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change.
 [paper](https://www.aclweb.org/anthology/W19-4728)
