@@ -1,7 +1,7 @@
 # Publications
 
 
-Pia Sommerauer. 2020, July. Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (pp. 134-142).[paper](https://www.aclweb.org/anthology/2020.acl-srw.18.pdf)
+Pia Sommerauer. 2020, July. Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (pp. 134-142). [paper](https://www.aclweb.org/anthology/2020.acl-srw.18.pdf)
 
 Pia Sommerauer. 2020. "Review: Cognitive Linguistics - Foundations of Language". *Linguist list*, vol. 27.2006. [paper](https://linguistlist.org/issues/31/31-1021.html)
 

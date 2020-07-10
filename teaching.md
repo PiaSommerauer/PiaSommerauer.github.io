@@ -2,6 +2,13 @@
 
 I'm part of a team teaching Python for Text Analysis. The course materials were designed and developed by various people and can be found on [Github](https://github.com/cltl/python-for-text-analysis). Other than that, I sometimes help out with other courses, mostly by giving guest lectures about my PhD research.
 
+## Academic year 2020/21
+
+### Python for Text Analysis
+
+Very excited to be teaching this course again together with Marten Postma!
+
+
 ## Academic year 2019/20
 
 ### Python for Text Analysis
