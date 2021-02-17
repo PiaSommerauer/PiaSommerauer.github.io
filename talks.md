@@ -1,5 +1,6 @@
 # Activities
 
+* Talk at CoLing 2020: [Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement](https://www.aclweb.org/anthology/2020.coling-main.422/)
 * Talk at ACL Student Research Workshop 2020: [Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models](https://www.aclweb.org/anthology/2020.acl-srw.18/)
 * Talk accepted at Interdisciplinary College 2020: [Can patterns of word usage tell us what lemon and moon have in common? Analyzing the semantic content of distributional semantic models](https://interdisciplinary-college.org/2020-rc2/) - unfortunately the event was canceled due to Covid-19.
 * Happy to have received a full scholarship for [Interdisciplinary College 2020](https://interdisciplinary-college.org/) - unfortunately the event was canceled due to Covid-19.
