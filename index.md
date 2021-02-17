@@ -17,4 +17,5 @@ In addition to my research, I'm involved in teaching in the [CLTL MA programs](h
 When I'm not doing research, I enjoy all kinds of sports (but at the moment mostly running and swimming). I'm a knitting and sewing enthusiast and get excited about hand-made things. In the past, I used to be a member of a circus group.
 
 ### where to find me
-I can usually be found on the 13th floor of the university main building. Contact me via email if you'd like to get in touch.
+
+I'm currently working from home. Please feel free to get in touch via email.
