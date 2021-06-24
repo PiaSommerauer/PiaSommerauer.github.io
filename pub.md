@@ -1,5 +1,9 @@
 # Publications
-Pia Sommerauer, Antske Fokkens and Piek Vossen.2020. Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement. In: Proceedings of the 28th International Conference on Computational Linguistics. (pp. 4798–4809). [paper](https://www.aclweb.org/anthology/2020.coling-main.422/)
+
+Yvette Oortwijn , Jelke Bloem, Pia Sommerauer, Francois Meyer, Wei Zhou and Antske Fokkens. 2021, June. Challenging distributional models with a conceptual network of philosophical terms. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 2511-2522). [paper](https://www.aclweb.org/anthology/2021.naacl-main.199/)
+
+
+Pia Sommerauer, Antske Fokkens and Piek Vossen. 2020. Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement. In: Proceedings of the 28th International Conference on Computational Linguistics. (pp. 4798–4809). [paper](https://www.aclweb.org/anthology/2020.coling-main.422/)
 
 Pia Sommerauer. 2020, July. Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (pp. 134-142). [paper](https://www.aclweb.org/anthology/2020.acl-srw.18.pdf)
 

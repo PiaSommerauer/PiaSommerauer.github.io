@@ -1,7 +1,6 @@
 # Teaching
 
-I'm part of a team teaching Python for Text Analysis. The course materials were designed and developed by various people and can be found on [Github](https://github.com/cltl/python-for-text-analysis). Other than that, I sometimes help out with other courses, mostly by giving guest lectures about my PhD research.
-
+I'm part of a team teaching Python for Text Analysis. The course materials were designed and developed by various people and can be found on [Github](https://github.com/cltl/python-for-text-analysis).
 
 
 ## Academic year 2020/21
@@ -33,6 +32,3 @@ July 1-2, 2019
 ### Guest lecture on distributional semantics in The Computational Lexicon
 taught by Hennie van der Vliet (+ guest lectures)
 Periods: 1
-
-
-
