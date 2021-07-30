@@ -10,7 +10,7 @@ Pia Sommerauer. 2020, July. Why is penguin more similar to polar bear than to se
 Pia Sommerauer. 2020. "Review: Cognitive Linguistics - Foundations of Language". *Linguist list*, vol. 27.2006. [paper](https://linguistlist.org/issues/31/31-1021.html)
 
 Pia Sommerauer, Antske Fokkens, and Piek Vossen. 2019. Towards Interpretable, Data-derived Distributional Semantic Representations for Reasoning: A Dataset of Properties and Concepts. In *Proceedings of the Tenth Global Wordnet Conference*.
-[paper](https://d1wqtxts1xzle7.cloudfront.net/61263080/Proceedings_of_the_10th_Global_Wordnet_Conference_201920191119-65150-qqqkcb.pdf?1574154616=&response-content-disposition=inline%3B+filename%3DDevelopment_of_Assamese_Rule_based_Stemm.pdf&Expires=1606996357&Signature=MUyqhn2HesZT3fiuNNpBeEKidPLx9uYSaW5qqu6w5qFuygS4YXrGaKWQa3D4MbR7SM2QlwMZTl2auHq1LEH2IE4SoVLE319iFvyHvNMnzosVcisyKN8lY5PTJz3NV5mvccwqkdN9ECuZmGOR07YjdpygppRTprSzUToWrNXdaYAtR7RkARgqrF7-UO~IACgeorrjmuLaLDyy05Lk~2jEaGzWz2Rd8GpXd3auox25GVihf6CNTYViSF3AP50ZMTHmd08FP084SvyxUbFYuJ7JOys0HAoafmTdGu8rjBGcP1L42SAh6lzKqehAEujebAS6x3vE4cO5vgV7XD4KB8NgIg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=95)
+[paper](https://aclanthology.org/2019.gwc-1.12/)
 
 Pia Sommerauer and Antske Fokkens. 2019. "Conceptual Change and Distributional Semantic Models: an Exploratory Study on Pitfalls and Possibilities". In *Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change*.
 [paper](https://www.aclweb.org/anthology/W19-4728)
