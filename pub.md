@@ -1,5 +1,7 @@
 # Publications
 
+To be updated. Please refer to Google Scholar for my most recent publications.
+
 Pia Sommerauer. 2022. Diagnosing Semantic Properties in Distributional Representations of Word Meaning. PhD Thesis. [thesis](papers/thesis.pdf)
 
 Yvette Oortwijn , Jelke Bloem, Pia Sommerauer, Francois Meyer, Wei Zhou and Antske Fokkens. 2021, June. Challenging distributional models with a conceptual network of philosophical terms. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 2511-2522). [paper](https://www.aclweb.org/anthology/2021.naacl-main.199/)
