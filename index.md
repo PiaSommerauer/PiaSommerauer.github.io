@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-I'm an assistant professor in the [Computational Linguistics at the Computational Linguistics and Text Mining Lab](http://www.cltl.nl/) at Vrije Universiteit Amsterdam. I'm interested in how computational models deal with implicit information in language. 
+I'm an assistant professor in the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl/) at Vrije Universiteit Amsterdam. I'm interested in how computational models deal with implicit information in language. 
 
 I teach several courses in the [CLTL MA programs](http://www.cltl.nl/teaching/human-language-technology/hlt-course-overview-2018-2019/).
 
